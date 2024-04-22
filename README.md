@@ -30,8 +30,6 @@ A B X Y Q
 5. Step 5: Verify the Deployment:
 After successfully deploying the contract, the script deploy.ts should print "true" in the terminal if the deployment is successful. If you encounter any issues, make sure to review your contract code and the Hardhat configuration.
 Remember that using a .env file to store private keys is a common practice to keep them secure. However, always ensure that you do not commit your .env file to version control systems to avoid leaking sensitive information. Additionally, be cautious when deploying contracts and make sure to test your code thoroughly before deploying it to the mainnet or any production environment.
-![output](https://github.com/ursprash/zkSnark/assets/111697531/2199270d-a71f-4856-97df-10d8d92dde65)
-
 
 ## Author
 rajadityafaujdar
